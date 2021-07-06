@@ -1,0 +1,6 @@
+- Replace the new Plist here
+- git add .
+- git commit -m "OC [VERSION]"
+- git log     // Record CommitID
+- git checkout [YourBranch]
+- git cherry-pick [CommitId]
